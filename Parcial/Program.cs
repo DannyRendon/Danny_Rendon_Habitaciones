@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Collections.Generic;
 
+Console.WriteLine("Que tal profe");
+
 Clientes cliente1 = new Clientes();
 cliente1.Id = 1;
 cliente1.Nombre = "Juan";
@@ -74,4 +76,3 @@ public class Ventas
     public List<Productos>? ProductosVendidos;
 
 }
-
