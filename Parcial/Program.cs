@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Collections.Generic;
 
+Console.WriteLine("Hola, profe!");
+
 Clientes cliente1 = new Clientes();
 cliente1.Id = 1;
 cliente1.Nombre = "Juan";
