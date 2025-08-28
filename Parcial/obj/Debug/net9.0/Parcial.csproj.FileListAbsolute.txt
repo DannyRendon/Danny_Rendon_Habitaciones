@@ -1,0 +1,15 @@
+C:\Users\123\Danny_Rendon_Habitaciones\Parcial\bin\Debug\net9.0\Parcial.exe
+C:\Users\123\Danny_Rendon_Habitaciones\Parcial\bin\Debug\net9.0\Parcial.deps.json
+C:\Users\123\Danny_Rendon_Habitaciones\Parcial\bin\Debug\net9.0\Parcial.runtimeconfig.json
+C:\Users\123\Danny_Rendon_Habitaciones\Parcial\bin\Debug\net9.0\Parcial.dll
+C:\Users\123\Danny_Rendon_Habitaciones\Parcial\bin\Debug\net9.0\Parcial.pdb
+C:\Users\123\Danny_Rendon_Habitaciones\Parcial\obj\Debug\net9.0\Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\123\Danny_Rendon_Habitaciones\Parcial\obj\Debug\net9.0\Parcial.AssemblyInfoInputs.cache
+C:\Users\123\Danny_Rendon_Habitaciones\Parcial\obj\Debug\net9.0\Parcial.AssemblyInfo.cs
+C:\Users\123\Danny_Rendon_Habitaciones\Parcial\obj\Debug\net9.0\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\123\Danny_Rendon_Habitaciones\Parcial\obj\Debug\net9.0\Parcial.sourcelink.json
+C:\Users\123\Danny_Rendon_Habitaciones\Parcial\obj\Debug\net9.0\Parcial.dll
+C:\Users\123\Danny_Rendon_Habitaciones\Parcial\obj\Debug\net9.0\refint\Parcial.dll
+C:\Users\123\Danny_Rendon_Habitaciones\Parcial\obj\Debug\net9.0\Parcial.pdb
+C:\Users\123\Danny_Rendon_Habitaciones\Parcial\obj\Debug\net9.0\Parcial.genruntimeconfig.cache
+C:\Users\123\Danny_Rendon_Habitaciones\Parcial\obj\Debug\net9.0\ref\Parcial.dll
